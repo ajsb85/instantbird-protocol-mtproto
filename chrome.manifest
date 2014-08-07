@@ -1,0 +1,5 @@
+skin		prpl-telegram	classic/1.0					chrome/skin/
+component {0b90415e-1e2a-11e4-b062-000c29b161a5}	components/telegramProtocol.js
+contract @mozilla.org/chat/telegram;1 {0b90415e-1e2a-11e4-b062-000c29b161a5}
+category im-protocol-plugin prpl-telegram @mozilla.org/chat/telegram;1
+
